@@ -1,4 +1,4 @@
-# 빅데이터 과제 정규 표현식 (Regular Expression) </P> 
+# Regular Expression
 #####                        
 
 ## Q. 정규 표현식에 대해 조사하고, 본인의 깃허브에 public 프로젝트로 등록하여 정리하시오. </h2>
