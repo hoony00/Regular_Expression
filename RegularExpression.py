@@ -2,7 +2,7 @@ import re
 
 # 문자열에서 'Computer System'이라는 패턴을 찾는 예제
 text = "My computer system is the best computer system"
-pattern = "computer system"
+pattern = r"computer system"
 
 result = re.search(pattern, text)
 
