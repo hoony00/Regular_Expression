@@ -6,7 +6,7 @@ SangHoon's email is sanghoon@testmail.com He can also be reached at sanghoon@gma
 
 pattern = r'[\w\.-]+@[\w\.-]+'  # 이메일 형식 패턴 
 
-pattern2 = '.com'
+pattern2 = '.com'               # .com 형식 패턴
 
 result = re.findall(pattern, text) #이메일 패턴들을 리스트로 가져옴
 
